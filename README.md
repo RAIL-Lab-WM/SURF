@@ -6,6 +6,7 @@ This codebase reproduces the main, component ablation, and planner ablation for 
 
 Openreview link can be found [here](https://openreview.net/forum?id=zDMepiMxdI&referrer=%5Bthe%20profile%20of%20Yuanhe%20Li%5D(%2Fprofile%3Fid%3D~Yuanhe_Li1)).
 
+## To Run
 ```bash
 pip install mbrl==0.1.5 --no-deps && pip install -r requirements.txt
 ```
